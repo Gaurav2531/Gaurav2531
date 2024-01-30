@@ -32,3 +32,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav2531&show_icons=true&locale=en" alt="gaurav2531" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav2531&" alt="gaurav2531" /></p>
+
+
+
+
+
+
+</div>
+
+<div align="center">
+<a href="https://github.com/Gaurav2531">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurav2531&theme=2077" height="180em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav2531&theme=2077" height="180em" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav2531&theme=2077" height="180em" />
+
+
+</div>
